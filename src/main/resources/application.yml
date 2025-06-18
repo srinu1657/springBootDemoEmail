@@ -1,0 +1,15 @@
+spring:
+  mail:
+    port: 587
+    host: smtp.gmail.com
+    username: javaraghu2018
+    password: 0044javaraghu2200 #not gmail password. generate alternative password
+    properties:
+      mail:
+        smtp:
+          starttls:
+            enable: true
+
+
+
+
